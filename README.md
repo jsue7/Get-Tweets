@@ -40,6 +40,9 @@ This script will produce a .csv file containing all Tweets retrieved per topic o
 | reference_user_profile_url | The URL to the user profile that created the referenced Tweet. |
 | reference_tweet_url | The URL to the referenced Tweet. |
 
+# Sample Output
+[This](https://github.com/jsue7/Get-Tweets/blob/main/getTweets_2022-11-09.csv) is a sample output of running the script as is. Please update config.py with your Twitter Application's API and Access Tokens.
+
 # Limitations
 There were some limitations I ran into during the creation of this project:
 
