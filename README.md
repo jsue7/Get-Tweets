@@ -50,5 +50,5 @@ There were some limitations I ran into during the creation of this project:
 2)	Only a maximum of 100 Tweets can be retrieved for search recent Tweets call. This means only 100 Tweets can be retrieved for every topic of interest (query). You may see quite a few of duplicate Tweets as a result of it being Retweeted.
 3)	With the Twitter API v2 Client, another get Tweet call is required to retrieve the full Tweet text of reference Tweets as such Retweets. This can limit how many queries can be searched before hitting the call request cap within a 15-minute timeframe.
 
-# Conclusions
+# Conclusion
 Tweepy is a great Python library for searching and retrieving Tweets based on a query. The data retrieved can be used for simple data analysis. However, a larger sample size of Tweets would be required for a deeper analysis. This would require a higher level of developer access.
